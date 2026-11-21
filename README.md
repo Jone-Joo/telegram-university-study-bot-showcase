@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="IT_FITU: مكتبة دراسية واختبارات على Telegram" width="100%">
+  <img src="https://github.com/user-attachments/assets/4312c382-9f0b-4451-a099-938119695396" alt="IT_FITU: مكتبة دراسية واختبارات على Telegram" width="100%">
 </p>
 
 <h1 align="center">IT_FITU | رفيقك في المذاكرة</h1>
@@ -36,7 +36,7 @@
 
 النشر لا يرسل إعلانًا جماعيًا. إزالة ملف من الفهرس لا تعني حذف نسخته الأصلية من Telegram. انشر فقط محتوى تملك حق مشاركته.
 
-<p align="center"><img src="assets/publishing-flow.png" alt="الإدارة ترفع مسودة ثم تراجع وتؤكد النشر؛ الطلاب يرون المنشور فقط" width="100%"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/f7c328a3-9f8b-4453-a8c4-84d6d80816e9" alt="الإدارة ترفع مسودة ثم تراجع وتؤكد النشر؛ الطلاب يرون المنشور فقط" width="100%"></p>
 <p align="center"><sub>رسم توضيحي لمسار المحتوى، وليس لقطة من واجهة Telegram.</sub></p>
 
 ## عن المشروع
